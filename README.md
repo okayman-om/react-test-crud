@@ -1,2 +1,2 @@
-# react-test-crud
+# react-test
 Created with CodeSandbox
